@@ -13,3 +13,4 @@ dependencies:
   - python-dateutil
   - python_abi
   - pytz
+  - udatetime
