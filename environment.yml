@@ -5,6 +5,11 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - libgcc-ng
+  - libstdcxx-ng
+  - python-dateutil
+  - python-abi
+  - pytz
   - pandas
   - numpy
   - seaborn
