@@ -5,12 +5,9 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
-  # - libgcc-ng
-  # - libstdcxx-ng
-  # - python-dateutil
-  # - python-abi
-  # - pytz
+  # Add dependencies for training
   - pandas
   - numpy
   - seaborn
   - matplotlib
+  - udatetime
