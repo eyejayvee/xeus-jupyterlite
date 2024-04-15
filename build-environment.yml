@@ -22,7 +22,7 @@ dependencies:
   - importlib_metadata
   # Add dependencies for webscraping
   - pillow
-  # - beautifulsoup4
+  - beautifulsoup4
   # - requests-wasm-polyfill
   # - huggingface_hub
   # - packaging
