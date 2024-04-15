@@ -7,7 +7,7 @@ dependencies:
   - jupyter_server
   - jupyterlite-core >=0.2.0,<0.3.0
   - jupyterlite-xeus>=0.1.2,<0.2
-  # Try adding dependencies here
+  # Additional dependencies for analytics packages
   - libgcc-ng
   - libstdcxx-ng
   - python-dateutil
