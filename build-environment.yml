@@ -14,3 +14,10 @@ dependencies:
   - python_abi
   - pytz
   - udatetime
+  # Add dependencies for webscraping
+  - bs4
+  - requests
+  - wordcloud
+  - transformers
+  - pyyaml>=6.0.1
+
