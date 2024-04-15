@@ -11,9 +11,3 @@ dependencies:
   - seaborn
   - matplotlib
   - plotly-express
-  # Add dependencies for webscraping
-  - bs4
-  #- requests
-  #- wordcloud
-  #- transformers
-  #- pyyaml==6.0.1
