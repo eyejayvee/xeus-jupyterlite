@@ -23,8 +23,8 @@ dependencies:
   # Add dependencies for webscraping
   - pillow
   - beautifulsoup4
-  # - requests-wasm-polyfill
-  # - huggingface_hub
+  - requests-wasm-polyfill
+  - huggingface_hub
   # - packaging
   # - pytorch
   # - pyyaml
