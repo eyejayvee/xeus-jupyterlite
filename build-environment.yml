@@ -8,7 +8,7 @@ dependencies:
   - jupyterlite-core >=0.2.0,<0.3.0
   - jupyterlite-xeus>=0.1.2,<0.2
   # Additional dependencies for analytics packages
-  - plotly-express
+  #- plotly-express
   - libgcc-ng
   - libstdcxx-ng
   - python-dateutil
