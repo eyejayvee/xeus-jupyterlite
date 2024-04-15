@@ -15,5 +15,5 @@ dependencies:
   - bs4
   - requests
   - wordcloud
-  - transformers
+  #- transformers
   #- pyyaml==6.0.1
