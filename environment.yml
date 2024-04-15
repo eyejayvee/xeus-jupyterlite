@@ -5,8 +5,15 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
-  # Add dependencies for training
+  # Add dependencies for analytics
   - pandas
   - numpy
   - seaborn
   - matplotlib
+  - plotly-express
+  # Add dependencies for webscraping
+  - bs4
+  - requests
+  - wordcloud
+  - transformers
+  - pyyaml==6.0.1
