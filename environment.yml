@@ -10,9 +10,10 @@ dependencies:
   - numpy
   - seaborn
   - matplotlib
+  # Add dependencies for web scraping
   - bs4
   - requests
   - tqdm
-  #- wordcloud
+  - wordcloud
   - transformers
   #- plotly-express
