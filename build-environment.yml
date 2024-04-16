@@ -25,7 +25,7 @@ dependencies:
   - patsy
   - scipy
   - statsmodels
-  #- plotly_express
+  - plotly_express
   - pillow
   - beautifulsoup4
   - numpy
