@@ -31,9 +31,6 @@ dependencies:
   - regex !=2019.12.17
   - sacremoses
   - tokenizers
-  #- bs4
-  #- requests
-  #- tqdm
-  #- wordcloud
+  - wordcloud
   #- transformers
 
