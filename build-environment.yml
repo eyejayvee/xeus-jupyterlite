@@ -29,7 +29,7 @@ dependencies:
   - pytorch
   - pyyaml
   - regex !=2019.12.17
-  # - sacremoses
+  - sacremoses
   # - tokenizers
   #- bs4
   #- requests
