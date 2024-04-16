@@ -10,4 +10,5 @@ dependencies:
   - numpy
   - seaborn
   - matplotlib
+  - bs4
   #- plotly-express
