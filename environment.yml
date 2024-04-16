@@ -13,4 +13,5 @@ dependencies:
   - bs4
   - requests
   - tqdm
+  - wordcloud
   #- plotly-express
