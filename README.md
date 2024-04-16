@@ -1,10 +1,13 @@
-# xeus-python + JupyterLite demo
+# xeus-python + JupyterLite analysis
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/xeus-python-demo/notebooks/?path=demo.ipynb)
 
-xeus-python + JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+xeus-python + JupyterLite deployed as a static site to GitHub Pages, for my data analysis projects.
+
+
 
 ## ✨ Try it in your browser ✨
+
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/xeus-python-demo/notebooks/?path=demo.ipynb)
 
 https://jupyterlite.github.io/xeus-python-demo/notebooks/?path=demo.ipynb
 
