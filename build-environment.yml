@@ -27,7 +27,7 @@ dependencies:
   - huggingface_hub
   - packaging
   - pytorch
-  # - pyyaml
+  - pyyaml
   # - regex !=2019.12.17
   # - sacremoses
   # - tokenizers
