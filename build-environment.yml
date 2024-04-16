@@ -25,7 +25,7 @@ dependencies:
   - beautifulsoup4
   #- requests-wasm-polyfill
   - huggingface_hub
-  # - packaging
+  - packaging
   # - pytorch
   # - pyyaml
   # - regex !=2019.12.17
