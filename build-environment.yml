@@ -24,7 +24,7 @@ dependencies:
   - pillow
   - beautifulsoup4
   - requests-wasm-polyfill
-  - huggingface_hub
+  #- huggingface_hub
   # - packaging
   # - pytorch
   # - pyyaml
