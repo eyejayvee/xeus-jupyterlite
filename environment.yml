@@ -15,4 +15,3 @@ dependencies:
   - requests
   - tqdm
   - transformers
-  - plotly-express
