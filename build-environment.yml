@@ -29,7 +29,7 @@ dependencies:
   - pillow
   - beautifulsoup4
   - numpy
-  #- requests-wasm-polyfill
+  - requests-wasm-polyfill
   - huggingface_hub
   - packaging
   - pytorch
