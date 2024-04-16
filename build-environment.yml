@@ -26,7 +26,7 @@ dependencies:
   #- requests-wasm-polyfill
   - huggingface_hub
   - packaging
-  # - pytorch
+  - pytorch
   # - pyyaml
   # - regex !=2019.12.17
   # - sacremoses
