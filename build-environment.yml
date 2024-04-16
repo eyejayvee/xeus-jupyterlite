@@ -22,6 +22,9 @@ dependencies:
   # Add dependencies for web scraping
   - tenacity
   - plotly
+  - patsy
+  - scipy
+  - statsmodels
   #- plotly_express
   - pillow
   - beautifulsoup4
