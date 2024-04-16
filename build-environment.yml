@@ -20,7 +20,8 @@ dependencies:
   - filelock
   - importlib_metadata
   # Add dependencies for web scraping
-  #- plotly-express
+  - plotly
+  #- plotly_express
   - pillow
   - beautifulsoup4
   - numpy
