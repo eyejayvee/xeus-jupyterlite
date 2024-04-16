@@ -28,7 +28,7 @@ dependencies:
   - packaging
   - pytorch
   - pyyaml
-  # - regex !=2019.12.17
+  - regex !=2019.12.17
   # - sacremoses
   # - tokenizers
   #- bs4
