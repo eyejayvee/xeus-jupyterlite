@@ -11,4 +11,5 @@ dependencies:
   - seaborn
   - matplotlib
   - bs4
+  - requests
   #- plotly-express
