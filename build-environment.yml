@@ -19,11 +19,12 @@ dependencies:
   - datasets
   - filelock
   - importlib_metadata
-  # Add dependencies for webscraping
+  # Add dependencies for web scraping
   #- plotly-express
   - pillow
   - beautifulsoup4
-  #- requests-wasm-polyfill
+  - numpy
+  - requests-wasm-polyfill
   - huggingface_hub
   - packaging
   - pytorch
