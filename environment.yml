@@ -17,4 +17,4 @@ dependencies:
   - transformers
   - requests-wasm-polyfill
   - pip:
-      - wordcloud
+      - wordcloud-lite
