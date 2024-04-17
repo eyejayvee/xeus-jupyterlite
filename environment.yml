@@ -17,4 +17,5 @@ dependencies:
   - transformers
   - requests-wasm-polyfill
   - conda:
+      - pillow
       - wordcloud
