@@ -28,6 +28,7 @@ dependencies:
   - plotly_express
   - pillow
   - beautifulsoup4
+  - bs4
   - numpy
   - huggingface_hub
   - packaging
