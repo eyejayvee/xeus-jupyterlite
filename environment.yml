@@ -16,3 +16,4 @@ dependencies:
   - tqdm
   - transformers
   - requests-wasm-polyfill
+  - wordcloud
