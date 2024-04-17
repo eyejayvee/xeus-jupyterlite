@@ -7,9 +7,9 @@ dependencies:
   - ipycanvas
   # Add dependencies for analytics
   - pandas
-  - numpy
+  #- numpy
   - seaborn
-  - matplotlib
+  #- matplotlib
   # Add dependencies for web scraping
   - bs4
   - requests
@@ -17,5 +17,7 @@ dependencies:
   - transformers
   - requests-wasm-polyfill
   - conda:
+      - numpy
+      - matplotlib
       - pillow
       - wordcloud
